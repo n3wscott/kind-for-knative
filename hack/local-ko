@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+KO_DOCKER_REPO=localhost:5000 ko "$@"
